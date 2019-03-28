@@ -1,1 +1,0 @@
-**NOTE: This template has moved to the [NativeScript app templates monorepo](https://github.com/NativeScript/nativescript-app-templates/tree/master/packages/template-drawer-navigation) and this repo is now deprecated.**
